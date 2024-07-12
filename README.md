@@ -18,8 +18,8 @@
 ##### --->Data Visualization
 
 ## Files
-- : The main Excel file containing all the data and analysis.
-- :Download the Excel file to view the data and analysis.
+- https://github.com/Chaitanya-dhawade/Excel_Gopi_Store_Analysis/blob/main/GOPI%20Store%20Data%20Analysis.xlsxThe main Excel file containing all the data and analysis.
+- Download the Excel file to view the data and analysis.
 - Explore the different sheets to see the various stages of data processing and visualization.
 
 ## Project Insignts
