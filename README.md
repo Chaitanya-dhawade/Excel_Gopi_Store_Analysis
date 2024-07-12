@@ -18,7 +18,7 @@
 ##### --->Data Visualization
 
 ## Files
-- The main Excel file containing all the data and analysis.
+- GOPI Store Data Analysis.xlsx The main Excel file containing all the data and analysis.
 - Download the Excel file to view the data and analysis.
 - Explore the different sheets to see the various stages of data processing and visualization.
 
